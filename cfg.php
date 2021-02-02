@@ -1,0 +1,10 @@
+<?php
+//DIMANA ADA KEMAUAN DISITU ADA JALAN
+//TETAP BERKARYA WALAU GJLS
+
+$ua = "Mozilla/5.0 (Linux; Android 10; POCOPHONE F1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.93 Mobile Safari/537.36";
+
+
+$Cookie = "_cfduid=d8058dd16d5c49e5949dc5cfa5cf784f21612268008;PHPSESSID=cp3vvgiit936k09m4fucu0iohf;spin_id=97224;bitmedia_fid=eyJmaWQiOiIwOGE3YmIzMDJhMWI0OGM2YmNiM2FjMWY3ZmQ2ZTUyZiIsImZpZG5vdWEiOiJmM2NlN2IzNGY2MjRhY2I5NDljYzI1MGVmZWY5YjU1MCJ9;_coinzilla_fp=%7B%22backed%22%3A%5B%7B%22cap%22%3A2%2C%22lastCall%22%3A1612276773047%7D%5D%7D";
+
+?>
